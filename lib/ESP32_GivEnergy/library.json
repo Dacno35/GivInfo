@@ -1,0 +1,9 @@
+{
+  "name": "ESP32GivEnergy",
+  "version": "0.6.0",
+  "description": "ESP32-native GivEnergy discovery, monitoring, battery-cell telemetry, and verified single/three-phase controls",
+  "keywords": ["esp32", "givenergy", "inverter", "modbus", "energy"],
+  "frameworks": ["arduino"],
+  "platforms": ["espressif32"],
+  "headers": "ESP32GivEnergy.h"
+}
